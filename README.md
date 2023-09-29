@@ -1,7 +1,7 @@
 ![logo](https://github.com/MYSELF-BINEET/myprofile/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm BINEET PRADHAN</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myself-bineet&label=Profile%20views&color=0e75b6&style=flat" alt="myself-bineet" /> </p>
 
